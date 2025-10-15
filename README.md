@@ -106,7 +106,7 @@ A user-friendly interface built using **Gradio** to allow interactive summarizat
 
 ## 📬 Connect with Me  
 
-- **LinkedIn**: [Sameer](https://www.linkedin.com/in/shaik-sameer18)  
-- **GitHub**: [sameerr-18](https://github.com/sameerr-18)  
+- **LinkedIn**: [viswaeswaar Reddy](https://www.linkedin.com/in/visweswar-reddy-bogasamudram-1aa886262/)  
+- **GitHub**: [viswaeswaar Reddy](https://github.com/bhogasamudramviswaeswaarreddy)  
 
 💡 *Feel free to contribute, provide feedback, or reach out!*  
